@@ -1,5 +1,5 @@
 h3://dns.google/dns-query
-https://120.53.53.53/dns-query
+https://1.1.1.1/dns-query
 [/0-6.com/]quic://dns.alidns.com
 [/0.zone/]quic://dns.alidns.com
 [/00.net/]quic://dns.alidns.com
