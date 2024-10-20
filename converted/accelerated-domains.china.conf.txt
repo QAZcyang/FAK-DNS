@@ -5418,6 +5418,7 @@
 [/5a8.org/]quic://dns.alidns.com
 [/5aaa.com/]quic://dns.alidns.com
 [/5acbd.com/]quic://dns.alidns.com
+[/5adanci.com/]quic://dns.alidns.com
 [/5adanhao.com/]quic://dns.alidns.com
 [/5ag.net/]quic://dns.alidns.com
 [/5ailiwu.com/]quic://dns.alidns.com
@@ -10124,6 +10125,7 @@
 [/aohuatextiles.com/]quic://dns.alidns.com
 [/aojauto.com/]quic://dns.alidns.com
 [/aojia-oil.com/]quic://dns.alidns.com
+[/aojiahuashare.com/]quic://dns.alidns.com
 [/aojian.net/]quic://dns.alidns.com
 [/aojian2.net/]quic://dns.alidns.com
 [/aojiaostudio.com/]quic://dns.alidns.com
@@ -34448,7 +34450,6 @@
 [/handyfriendship.com/]quic://dns.alidns.com
 [/hanergy.com/]quic://dns.alidns.com
 [/hanergymobileenergy.com/]quic://dns.alidns.com
-[/hanfang8.com/]quic://dns.alidns.com
 [/hanfei.net/]quic://dns.alidns.com
 [/hanfeiyl.com/]quic://dns.alidns.com
 [/hanfengcars.com/]quic://dns.alidns.com
@@ -43069,7 +43070,6 @@
 [/jiningjj.com/]quic://dns.alidns.com
 [/jiniu.work/]quic://dns.alidns.com
 [/jiniutech.com/]quic://dns.alidns.com
-[/jinjianbio.com/]quic://dns.alidns.com
 [/jinjiang-group.com/]quic://dns.alidns.com
 [/jinjiang.com/]quic://dns.alidns.com
 [/jinjianginns.com/]quic://dns.alidns.com
@@ -44246,7 +44246,6 @@
 [/jskjcms.com/]quic://dns.alidns.com
 [/jsklcy.com/]quic://dns.alidns.com
 [/jskpcg.org/]quic://dns.alidns.com
-[/jsks-ya.com/]quic://dns.alidns.com
 [/jskuajing.com/]quic://dns.alidns.com
 [/jskwt.com/]quic://dns.alidns.com
 [/jslcjt.com/]quic://dns.alidns.com
@@ -64641,7 +64640,6 @@
 [/shfq.com/]quic://dns.alidns.com
 [/shfrp.com/]quic://dns.alidns.com
 [/shftth.com/]quic://dns.alidns.com
-[/shfuju.com/]quic://dns.alidns.com
 [/shfxrc.com/]quic://dns.alidns.com
 [/shgao.com/]quic://dns.alidns.com
 [/shgaoxin.net/]quic://dns.alidns.com
@@ -69997,7 +69995,6 @@
 [/tianjin-patek.com/]quic://dns.alidns.com
 [/tianjingames.com/]quic://dns.alidns.com
 [/tianjingrong.com/]quic://dns.alidns.com
-[/tianjinshunma.com/]quic://dns.alidns.com
 [/tianjinwe.com/]quic://dns.alidns.com
 [/tianjinyijiahua.com/]quic://dns.alidns.com
 [/tianjiyy.com/]quic://dns.alidns.com
@@ -80297,6 +80294,7 @@
 [/xueyuhuangjinyan.com/]quic://dns.alidns.com
 [/xuezhangbb.com/]quic://dns.alidns.com
 [/xuezhangya.com/]quic://dns.alidns.com
+[/xuezhao.space/]quic://dns.alidns.com
 [/xuezhishi88.com/]quic://dns.alidns.com
 [/xuezhiyou.com/]quic://dns.alidns.com
 [/xuezhouyi.com/]quic://dns.alidns.com
@@ -85565,6 +85563,7 @@
 [/zgps168.com/]quic://dns.alidns.com
 [/zgpts.com/]quic://dns.alidns.com
 [/zgpy168.com/]quic://dns.alidns.com
+[/zgq.ink/]quic://dns.alidns.com
 [/zgqcdt.com/]quic://dns.alidns.com
 [/zgqczj.com/]quic://dns.alidns.com
 [/zgqkk.com/]quic://dns.alidns.com
