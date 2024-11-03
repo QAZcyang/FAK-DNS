@@ -3925,7 +3925,6 @@ https://1.1.1.1/dns-query
 [/3fantizi.com/]quic://160159.alidns.com
 [/3fda.com/]quic://160159.alidns.com
 [/3g-edu.org/]quic://160159.alidns.com
-[/3g210.com/]quic://160159.alidns.com
 [/3g3h.org/]quic://160159.alidns.com
 [/3g48.com/]quic://160159.alidns.com
 [/3g567.com/]quic://160159.alidns.com
@@ -11310,6 +11309,7 @@ https://1.1.1.1/dns-query
 [/avicsec.com/]quic://160159.alidns.com
 [/avicui.com/]quic://160159.alidns.com
 [/avivaqueen.com/]quic://160159.alidns.com
+[/avjb.com/]quic://160159.alidns.com
 [/avl-hitec.com/]quic://160159.alidns.com
 [/avlsec.com/]quic://160159.alidns.com
 [/avlyun.com/]quic://160159.alidns.com
@@ -13696,7 +13696,6 @@ https://1.1.1.1/dns-query
 [/bjfmart.com/]quic://160159.alidns.com
 [/bjfqy.com/]quic://160159.alidns.com
 [/bjfsali.com/]quic://160159.alidns.com
-[/bjfwbz.org/]quic://160159.alidns.com
 [/bjfyw.org/]quic://160159.alidns.com
 [/bjgas.com/]quic://160159.alidns.com
 [/bjggk.com/]quic://160159.alidns.com
@@ -16613,7 +16612,6 @@ https://1.1.1.1/dns-query
 [/cfca-c.org/]quic://160159.alidns.com
 [/cfccd.com/]quic://160159.alidns.com
 [/cfcf1958.com/]quic://160159.alidns.com
-[/cfcglx.com/]quic://160159.alidns.com
 [/cfchi.com/]quic://160159.alidns.com
 [/cfchint.com/]quic://160159.alidns.com
 [/cfcpn.com/]quic://160159.alidns.com
@@ -19023,6 +19021,7 @@ https://1.1.1.1/dns-query
 [/cloudsohu.net/]quic://160159.alidns.com
 [/cloudstencent.com/]quic://160159.alidns.com
 [/cloudstudio.net/]quic://160159.alidns.com
+[/cloudswift.cloud/]quic://160159.alidns.com
 [/cloudtalkers.com/]quic://160159.alidns.com
 [/cloudtencents.com/]quic://160159.alidns.com
 [/cloudtomicro.com/]quic://160159.alidns.com
@@ -27824,6 +27823,7 @@ https://1.1.1.1/dns-query
 [/fireval.com/]quic://160159.alidns.com
 [/firevale.com/]quic://160159.alidns.com
 [/firhq.com/]quic://160159.alidns.com
+[/firstarpc.com/]quic://160159.alidns.com
 [/firstdrs.com/]quic://160159.alidns.com
 [/firstfood-cn.com/]quic://160159.alidns.com
 [/firstheartbeat.net/]quic://160159.alidns.com
@@ -33736,7 +33736,6 @@ https://1.1.1.1/dns-query
 [/gxxjc168.com/]quic://160159.alidns.com
 [/gxxjchem.com/]quic://160159.alidns.com
 [/gxxjcz.com/]quic://160159.alidns.com
-[/gxxjnc.com/]quic://160159.alidns.com
 [/gxxjpco.com/]quic://160159.alidns.com
 [/gxxjry.com/]quic://160159.alidns.com
 [/gxxjsy.com/]quic://160159.alidns.com
@@ -34925,7 +34924,6 @@ https://1.1.1.1/dns-query
 [/hanmaker.com/]quic://160159.alidns.com
 [/hanmeilin.com/]quic://160159.alidns.com
 [/hanming.cc/]quic://160159.alidns.com
-[/hannahlay.com/]quic://160159.alidns.com
 [/hannor.com/]quic://160159.alidns.com
 [/hannto.com/]quic://160159.alidns.com
 [/hanpian.tv/]quic://160159.alidns.com
@@ -54367,6 +54365,7 @@ https://1.1.1.1/dns-query
 [/mylikechat.com/]quic://160159.alidns.com
 [/mylikesz.com/]quic://160159.alidns.com
 [/mylikeyk.com/]quic://160159.alidns.com
+[/mylinkapp.hk/]quic://160159.alidns.com
 [/mylitboy.com/]quic://160159.alidns.com
 [/myliwu.net/]quic://160159.alidns.com
 [/mylmad.com/]quic://160159.alidns.com
@@ -59624,7 +59623,6 @@ https://1.1.1.1/dns-query
 [/qdjxhz.com/]quic://160159.alidns.com
 [/qdkelinde.com/]quic://160159.alidns.com
 [/qdkingst.com/]quic://160159.alidns.com
-[/qdkljd.com/]quic://160159.alidns.com
 [/qdkmjc.com/]quic://160159.alidns.com
 [/qdlanrun.com/]quic://160159.alidns.com
 [/qdliding.com/]quic://160159.alidns.com
@@ -64434,7 +64432,6 @@ https://1.1.1.1/dns-query
 [/sh17.com/]quic://160159.alidns.com
 [/sh414.com/]quic://160159.alidns.com
 [/sh5y.com/]quic://160159.alidns.com
-[/sh7.com/]quic://160159.alidns.com
 [/sh8y.com/]quic://160159.alidns.com
 [/sh9130.com/]quic://160159.alidns.com
 [/sh9156.com/]quic://160159.alidns.com
@@ -64712,6 +64709,7 @@ https://1.1.1.1/dns-query
 [/shanyuanms.com/]quic://160159.alidns.com
 [/shanyue.tech/]quic://160159.alidns.com
 [/shanyuechina.com/]quic://160159.alidns.com
+[/shanyzx.com/]quic://160159.alidns.com
 [/shanzhen.com/]quic://160159.alidns.com
 [/shanzhen.me/]quic://160159.alidns.com
 [/shanzhildq.com/]quic://160159.alidns.com
@@ -69128,6 +69126,7 @@ https://1.1.1.1/dns-query
 [/szthxf.com/]quic://160159.alidns.com
 [/sztino.com/]quic://160159.alidns.com
 [/sztkc.com/]quic://160159.alidns.com
+[/sztljyjt.com/]quic://160159.alidns.com
 [/sztmjz.com/]quic://160159.alidns.com
 [/sztopbrand.com/]quic://160159.alidns.com
 [/sztspi.com/]quic://160159.alidns.com
@@ -69382,7 +69381,6 @@ https://1.1.1.1/dns-query
 [/takumi-cnc.com/]quic://160159.alidns.com
 [/takungpao.com/]quic://160159.alidns.com
 [/takwang.net/]quic://160159.alidns.com
-[/taladapp.com/]quic://160159.alidns.com
 [/talbrain.com/]quic://160159.alidns.com
 [/talebase.com/]quic://160159.alidns.com
 [/talentable.com/]quic://160159.alidns.com
@@ -69902,6 +69900,7 @@ https://1.1.1.1/dns-query
 [/tecbbs.com/]quic://160159.alidns.com
 [/tecenet.com/]quic://160159.alidns.com
 [/tech-mx.com/]quic://160159.alidns.com
+[/tech-sem.com/]quic://160159.alidns.com
 [/tech-sonic.net/]quic://160159.alidns.com
 [/tech1024.com/]quic://160159.alidns.com
 [/tech110.net/]quic://160159.alidns.com
@@ -70235,6 +70234,7 @@ https://1.1.1.1/dns-query
 [/thebeijinger.com/]quic://160159.alidns.com
 [/thebeijingnews.com/]quic://160159.alidns.com
 [/thebird-air.com/]quic://160159.alidns.com
+[/theblockbeats.info/]quic://160159.alidns.com
 [/thebuddycreative.com/]quic://160159.alidns.com
 [/thechois.cc/]quic://160159.alidns.com
 [/thecode.me/]quic://160159.alidns.com
@@ -70911,6 +70911,7 @@ https://1.1.1.1/dns-query
 [/tkpension.com/]quic://160159.alidns.com
 [/tkplusemi.com/]quic://160159.alidns.com
 [/tkrlab.com/]quic://160159.alidns.com
+[/tktjwhyy.com/]quic://160159.alidns.com
 [/tkw.cc/]quic://160159.alidns.com
 [/tkwhzf.com/]quic://160159.alidns.com
 [/tkww.hk/]quic://160159.alidns.com
@@ -77425,7 +77426,6 @@ https://1.1.1.1/dns-query
 [/wxagame.com/]quic://160159.alidns.com
 [/wxamedia.com/]quic://160159.alidns.com
 [/wxang.com/]quic://160159.alidns.com
-[/wxaokai.com/]quic://160159.alidns.com
 [/wxappclub.com/]quic://160159.alidns.com
 [/wxappvideo.com/]quic://160159.alidns.com
 [/wxatech.com/]quic://160159.alidns.com
@@ -77734,6 +77734,7 @@ https://1.1.1.1/dns-query
 [/x431.com/]quic://160159.alidns.com
 [/x4dp.com/]quic://160159.alidns.com
 [/x5dj.com/]quic://160159.alidns.com
+[/x6485f.cc/]quic://160159.alidns.com
 [/x64go.com/]quic://160159.alidns.com
 [/x64pro.com/]quic://160159.alidns.com
 [/x66597.com/]quic://160159.alidns.com
@@ -79360,7 +79361,6 @@ https://1.1.1.1/dns-query
 [/xinjunshi.net/]quic://160159.alidns.com
 [/xinjunshicn.net/]quic://160159.alidns.com
 [/xinkaiyuanceps.com/]quic://160159.alidns.com
-[/xinkamai.com/]quic://160159.alidns.com
 [/xinkedao.com/]quic://160159.alidns.com
 [/xinkejiaotong.com/]quic://160159.alidns.com
 [/xinkuai.com/]quic://160159.alidns.com
@@ -82356,6 +82356,7 @@ https://1.1.1.1/dns-query
 [/yihchina.com/]quic://160159.alidns.com
 [/yiheda.com/]quic://160159.alidns.com
 [/yihedoors.com/]quic://160159.alidns.com
+[/yihke.com/]quic://160159.alidns.com
 [/yihong001.com/]quic://160159.alidns.com
 [/yihong1718.com/]quic://160159.alidns.com
 [/yihshou.com/]quic://160159.alidns.com
@@ -84721,7 +84722,6 @@ https://1.1.1.1/dns-query
 [/yunpan1.net/]quic://160159.alidns.com
 [/yunpansou.cc/]quic://160159.alidns.com
 [/yunpanx.com/]quic://160159.alidns.com
-[/yunpanziyuan.xyz/]quic://160159.alidns.com
 [/yunpay.cc/]quic://160159.alidns.com
 [/yunpei.com/]quic://160159.alidns.com
 [/yunpian.com/]quic://160159.alidns.com
