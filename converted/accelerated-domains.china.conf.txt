@@ -1742,6 +1742,7 @@
 [/17bianji.com/]quic://dns.alidns.com
 [/17biao.com/]quic://dns.alidns.com
 [/17bigdata.com/]quic://dns.alidns.com
+[/17biying.net/]quic://dns.alidns.com
 [/17bt.com/]quic://dns.alidns.com
 [/17byh.com/]quic://dns.alidns.com
 [/17cct.com/]quic://dns.alidns.com
@@ -4063,7 +4064,6 @@
 [/45yx.com/]quic://dns.alidns.com
 [/46412.com/]quic://dns.alidns.com
 [/4644440.vip/]quic://dns.alidns.com
-[/46575732.com/]quic://dns.alidns.com
 [/4658271.com/]quic://dns.alidns.com
 [/46644.com/]quic://dns.alidns.com
 [/46771313.com/]quic://dns.alidns.com
@@ -6093,7 +6093,6 @@
 [/6686vip15.app/]quic://dns.alidns.com
 [/6686vip16.app/]quic://dns.alidns.com
 [/6686vip26.app/]quic://dns.alidns.com
-[/6686vip56.app/]quic://dns.alidns.com
 [/6688.com/]quic://dns.alidns.com
 [/668app.com/]quic://dns.alidns.com
 [/668cdn.cc/]quic://dns.alidns.com
@@ -12984,6 +12983,7 @@
 [/bendiw.cc/]quic://dns.alidns.com
 [/bendizhidao.com/]quic://dns.alidns.com
 [/benduo.net/]quic://dns.alidns.com
+[/bengalj.com/]quic://dns.alidns.com
 [/bengbeng.com/]quic://dns.alidns.com
 [/bengbufan.com/]quic://dns.alidns.com
 [/bengbukx.com/]quic://dns.alidns.com
@@ -15358,6 +15358,7 @@
 [/bytedance.com/]quic://dns.alidns.com
 [/bytedance.net/]quic://dns.alidns.com
 [/bytedanceapi.com/]quic://dns.alidns.com
+[/bytedancevod.com/]quic://dns.alidns.com
 [/bytedcdn.com/]quic://dns.alidns.com
 [/bytedns.com/]quic://dns.alidns.com
 [/bytedns.net/]quic://dns.alidns.com
@@ -17096,7 +17097,6 @@
 [/chacihai.com/]quic://dns.alidns.com
 [/chacuo.net/]quic://dns.alidns.com
 [/chadoc.com/]quic://dns.alidns.com
-[/chadown.com/]quic://dns.alidns.com
 [/chaej.com/]quic://dns.alidns.com
 [/chafanhou.com/]quic://dns.alidns.com
 [/chafei.net/]quic://dns.alidns.com
@@ -19752,7 +19752,6 @@
 [/cncnki.com/]quic://dns.alidns.com
 [/cncolour.com/]quic://dns.alidns.com
 [/cncompute.com/]quic://dns.alidns.com
-[/cnconsume.com/]quic://dns.alidns.com
 [/cncoolm.com/]quic://dns.alidns.com
 [/cncopter.com/]quic://dns.alidns.com
 [/cncotton.com/]quic://dns.alidns.com
@@ -23817,7 +23816,6 @@
 [/dingqidong.com/]quic://dns.alidns.com
 [/dingqingyun.com/]quic://dns.alidns.com
 [/dingrongjiashi.com/]quic://dns.alidns.com
-[/dingrongtong.com/]quic://dns.alidns.com
 [/dingrongxd.com/]quic://dns.alidns.com
 [/dingsheng.com/]quic://dns.alidns.com
 [/dingso.com/]quic://dns.alidns.com
@@ -25132,6 +25130,7 @@
 [/dukechiang.com/]quic://dns.alidns.com
 [/duketop1.com/]quic://dns.alidns.com
 [/dukharo.com/]quic://dns.alidns.com
+[/dukku.com/]quic://dns.alidns.com
 [/dukuai.com/]quic://dns.alidns.com
 [/dule.cc/]quic://dns.alidns.com
 [/dulesocks.com/]quic://dns.alidns.com
@@ -25592,7 +25591,6 @@
 [/dzljy.com/]quic://dns.alidns.com
 [/dzllzg.com/]quic://dns.alidns.com
 [/dzmachines.com/]quic://dns.alidns.com
-[/dzmhdj.com/]quic://dns.alidns.com
 [/dzmhospital.com/]quic://dns.alidns.com
 [/dzng.com/]quic://dns.alidns.com
 [/dzoptics.com/]quic://dns.alidns.com
@@ -27699,7 +27697,6 @@
 [/fangzhouzi.com/]quic://dns.alidns.com
 [/fangzongguan.com/]quic://dns.alidns.com
 [/fanhai-hk.com/]quic://dns.alidns.com
-[/fanhai8.com/]quic://dns.alidns.com
 [/fanhaib.com/]quic://dns.alidns.com
 [/fanhaic.com/]quic://dns.alidns.com
 [/fanhangame.ltd/]quic://dns.alidns.com
@@ -36174,6 +36171,7 @@
 [/haouvj.com/]quic://dns.alidns.com
 [/haowa.com/]quic://dns.alidns.com
 [/haowaicaijing.com/]quic://dns.alidns.com
+[/haowallpaper.com/]quic://dns.alidns.com
 [/haowandeni.com/]quic://dns.alidns.com
 [/haowang.shop/]quic://dns.alidns.com
 [/haowanok.com/]quic://dns.alidns.com
@@ -40966,6 +40964,7 @@
 [/ibadboy.net/]quic://dns.alidns.com
 [/ibaiji.org/]quic://dns.alidns.com
 [/ibailve.com/]quic://dns.alidns.com
+[/ibaiqiu.com/]quic://dns.alidns.com
 [/ibaizhu.com/]quic://dns.alidns.com
 [/ibanana.club/]quic://dns.alidns.com
 [/ibanbu.com/]quic://dns.alidns.com
@@ -41267,6 +41266,7 @@
 [/ictun.com/]quic://dns.alidns.com
 [/ictuniv.com/]quic://dns.alidns.com
 [/iculture.cc/]quic://dns.alidns.com
+[/icustomslawyer.com/]quic://dns.alidns.com
 [/icver.com/]quic://dns.alidns.com
 [/icvip.com/]quic://dns.alidns.com
 [/icxbk.com/]quic://dns.alidns.com
@@ -41505,6 +41505,7 @@
 [/ietdata.com/]quic://dns.alidns.com
 [/ietheivaicai.com/]quic://dns.alidns.com
 [/ietheme.com/]quic://dns.alidns.com
+[/ietrcd.com/]quic://dns.alidns.com
 [/iewb.net/]quic://dns.alidns.com
 [/iewie.org/]quic://dns.alidns.com
 [/iewoai.com/]quic://dns.alidns.com
@@ -42450,6 +42451,7 @@
 [/inverter.so/]quic://dns.alidns.com
 [/invescogreatwall.com/]quic://dns.alidns.com
 [/invest-data.com/]quic://dns.alidns.com
+[/investgohn.com/]quic://dns.alidns.com
 [/investgx.com/]quic://dns.alidns.com
 [/investoday.net/]quic://dns.alidns.com
 [/investorscn.com/]quic://dns.alidns.com
@@ -43502,7 +43504,6 @@
 [/java1234.com/]quic://dns.alidns.com
 [/java2000.net/]quic://dns.alidns.com
 [/java2class.net/]quic://dns.alidns.com
-[/javaapk.com/]quic://dns.alidns.com
 [/javaboy.org/]quic://dns.alidns.com
 [/javacui.com/]quic://dns.alidns.com
 [/javadvi.com/]quic://dns.alidns.com
@@ -46020,7 +46021,6 @@
 [/jseepub.com/]quic://dns.alidns.com
 [/jseoptics.com/]quic://dns.alidns.com
 [/jser.io/]quic://dns.alidns.com
-[/jsf1990.site/]quic://dns.alidns.com
 [/jsfmly.com/]quic://dns.alidns.com
 [/jsfof.com/]quic://dns.alidns.com
 [/jsform.com/]quic://dns.alidns.com
@@ -47026,6 +47026,7 @@
 [/jztsjyxx.com/]quic://dns.alidns.com
 [/jztvnews.com/]quic://dns.alidns.com
 [/jztvxmt.com/]quic://dns.alidns.com
+[/jzty.com/]quic://dns.alidns.com
 [/jztylxx.com/]quic://dns.alidns.com
 [/jztzw.net/]quic://dns.alidns.com
 [/jzwxfrp.com/]quic://dns.alidns.com
@@ -47768,7 +47769,6 @@
 [/kezehb.com/]quic://dns.alidns.com
 [/kezhaozhao.com/]quic://dns.alidns.com
 [/kezhi.tech/]quic://dns.alidns.com
-[/kezunmc.com/]quic://dns.alidns.com
 [/kf.ai/]quic://dns.alidns.com
 [/kf3msfm.com/]quic://dns.alidns.com
 [/kf5.com/]quic://dns.alidns.com
@@ -48091,6 +48091,7 @@
 [/klvtu.com/]quic://dns.alidns.com
 [/klwxq.com/]quic://dns.alidns.com
 [/klx-tech.com/]quic://dns.alidns.com
+[/klxksci.com/]quic://dns.alidns.com
 [/klxuexi.com/]quic://dns.alidns.com
 [/km.com/]quic://dns.alidns.com
 [/km169.net/]quic://dns.alidns.com
@@ -53671,7 +53672,6 @@
 [/mazey.net/]quic://dns.alidns.com
 [/mazhan.com/]quic://dns.alidns.com
 [/mazhen.tech/]quic://dns.alidns.com
-[/mazhongyou.com/]quic://dns.alidns.com
 [/mazida.com/]quic://dns.alidns.com
 [/mb-go.com/]quic://dns.alidns.com
 [/mb2p.com/]quic://dns.alidns.com
@@ -53855,6 +53855,7 @@
 [/medme.net/]quic://dns.alidns.com
 [/medmeeting.org/]quic://dns.alidns.com
 [/medproad.com/]quic://dns.alidns.com
+[/medreading.com/]quic://dns.alidns.com
 [/medscrm.com/]quic://dns.alidns.com
 [/medstarcorp.com/]quic://dns.alidns.com
 [/medtion.com/]quic://dns.alidns.com
@@ -55175,6 +55176,7 @@
 [/mnaafjk.com/]quic://dns.alidns.com
 [/mnancheng.com/]quic://dns.alidns.com
 [/mnbvtgv.com/]quic://dns.alidns.com
+[/mnc011.mcc460.pub.3gppnetwork.org/]quic://dns.alidns.com
 [/mnengine.com/]quic://dns.alidns.com
 [/mnghjkiitik.cfd/]quic://dns.alidns.com
 [/mnihyc.com/]quic://dns.alidns.com
@@ -55319,6 +55321,7 @@
 [/moeyuuko.com/]quic://dns.alidns.com
 [/moeyy.xyz/]quic://dns.alidns.com
 [/moezx.cc/]quic://dns.alidns.com
+[/mofacdnode.com/]quic://dns.alidns.com
 [/mofahou.com/]quic://dns.alidns.com
 [/mofang.com/]quic://dns.alidns.com
 [/mofang.jp/]quic://dns.alidns.com
@@ -58776,7 +58779,6 @@
 [/ohyee.cc/]quic://dns.alidns.com
 [/oi-wiki.org/]quic://dns.alidns.com
 [/oi3g.com/]quic://dns.alidns.com
-[/oi7kqn.tokyo/]quic://dns.alidns.com
 [/oi8.cc/]quic://dns.alidns.com
 [/oiaqye7985.com/]quic://dns.alidns.com
 [/oicat.com/]quic://dns.alidns.com
@@ -60100,6 +60102,7 @@
 [/peilili.com/]quic://dns.alidns.com
 [/peiluming.com/]quic://dns.alidns.com
 [/peiluyou.com/]quic://dns.alidns.com
+[/peipusci.com/]quic://dns.alidns.com
 [/peise.net/]quic://dns.alidns.com
 [/peisebiao.com/]quic://dns.alidns.com
 [/peixianedu.com/]quic://dns.alidns.com
@@ -60969,7 +60972,6 @@
 [/pospalit.com/]quic://dns.alidns.com
 [/post183.net/]quic://dns.alidns.com
 [/postarlight.com/]quic://dns.alidns.com
-[/postcardcloud.com/]quic://dns.alidns.com
 [/posterlabs.com/]quic://dns.alidns.com
 [/postgres.fun/]quic://dns.alidns.com
 [/postgresqlchina.com/]quic://dns.alidns.com
@@ -64885,7 +64887,6 @@
 [/rpg99.com/]quic://dns.alidns.com
 [/rpgmoba.com/]quic://dns.alidns.com
 [/rphbnm.com/]quic://dns.alidns.com
-[/rpjrb.com/]quic://dns.alidns.com
 [/rpo5156.com/]quic://dns.alidns.com
 [/rpszo.com/]quic://dns.alidns.com
 [/rq.run/]quic://dns.alidns.com
@@ -65620,7 +65621,6 @@
 [/sanshua.com/]quic://dns.alidns.com
 [/sanshua.net/]quic://dns.alidns.com
 [/sansky.net/]quic://dns.alidns.com
-[/sansuiww.com/]quic://dns.alidns.com
 [/santaihu.com/]quic://dns.alidns.com
 [/santak-ups.com/]quic://dns.alidns.com
 [/santanjob.com/]quic://dns.alidns.com
@@ -67326,7 +67326,6 @@
 [/shengzehr.com/]quic://dns.alidns.com
 [/shengzhaoli.com/]quic://dns.alidns.com
 [/shenhai8866.com/]quic://dns.alidns.com
-[/shenhaokp.com/]quic://dns.alidns.com
 [/shenhexin.com/]quic://dns.alidns.com
 [/shenhexin.vip/]quic://dns.alidns.com
 [/shenhongfei.com/]quic://dns.alidns.com
@@ -77231,6 +77230,7 @@
 [/wallstreetcn.com/]quic://dns.alidns.com
 [/wallswitch.com/]quic://dns.alidns.com
 [/walsongreenhouse.com/]quic://dns.alidns.com
+[/waltzsy.com/]quic://dns.alidns.com
 [/waluer.com/]quic://dns.alidns.com
 [/wamawama.com/]quic://dns.alidns.com
 [/wamila.com/]quic://dns.alidns.com
@@ -77554,6 +77554,7 @@
 [/wantumusic.com/]quic://dns.alidns.com
 [/wantwords.net/]quic://dns.alidns.com
 [/wanwang.space/]quic://dns.alidns.com
+[/wanweiedu.com/]quic://dns.alidns.com
 [/wanweixin.com/]quic://dns.alidns.com
 [/wanwudezhi.com/]quic://dns.alidns.com
 [/wanwuelian.com/]quic://dns.alidns.com
@@ -78252,6 +78253,7 @@
 [/weixunlogin.com/]quic://dns.alidns.com
 [/weixunyunduan.net/]quic://dns.alidns.com
 [/weiyan.me/]quic://dns.alidns.com
+[/weiyan000.com/]quic://dns.alidns.com
 [/weiyangx.com/]quic://dns.alidns.com
 [/weiyanjiang.com/]quic://dns.alidns.com
 [/weiyapaper.com/]quic://dns.alidns.com
@@ -80671,6 +80673,7 @@
 [/x-peng.com/]quic://dns.alidns.com
 [/x-storm.com/]quic://dns.alidns.com
 [/x-tetris.com/]quic://dns.alidns.com
+[/x-vsion.com/]quic://dns.alidns.com
 [/x-xiangsh.com/]quic://dns.alidns.com
 [/x0769.com/]quic://dns.alidns.com
 [/x0y081e.xyz/]quic://dns.alidns.com
@@ -82203,7 +82206,6 @@
 [/xingb.net/]quic://dns.alidns.com
 [/xingbangip.com/]quic://dns.alidns.com
 [/xingbo.tv/]quic://dns.alidns.com
-[/xingcai.biz/]quic://dns.alidns.com
 [/xingchao1.com/]quic://dns.alidns.com
 [/xingchengart.com/]quic://dns.alidns.com
 [/xingchenjia.com/]quic://dns.alidns.com
@@ -83546,7 +83548,6 @@
 [/xqnmz.com/]quic://dns.alidns.com
 [/xqnwfdl.com/]quic://dns.alidns.com
 [/xqppt.com/]quic://dns.alidns.com
-[/xqs7f9.tokyo/]quic://dns.alidns.com
 [/xqsbw.com/]quic://dns.alidns.com
 [/xqshe.com/]quic://dns.alidns.com
 [/xqship.com/]quic://dns.alidns.com
@@ -89214,7 +89215,6 @@
 [/zfhdi.com/]quic://dns.alidns.com
 [/zfhz.org/]quic://dns.alidns.com
 [/zfile.vip/]quic://dns.alidns.com
-[/zfimg.com/]quic://dns.alidns.com
 [/zfj1441.com/]quic://dns.alidns.com
 [/zfkjgw.com/]quic://dns.alidns.com
 [/zfl9.com/]quic://dns.alidns.com
