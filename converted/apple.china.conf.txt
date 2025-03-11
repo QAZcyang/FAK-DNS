@@ -7,9 +7,6 @@
 [/adcdownload.apple.com/]quic://dns.alidns.com
 [/amp-api-updates.apps.apple.com/]quic://dns.alidns.com
 [/amp-api.media.apple.com/]quic://dns.alidns.com
-[/api-p-ap-c.smoot.apple.com/]quic://dns.alidns.com
-[/api-p-ap-d.smoot.apple.com/]quic://dns.alidns.com
-[/api-p-ap-e.smoot.apple.com/]quic://dns.alidns.com
 [/app-site-association.cdn-apple.com/]quic://dns.alidns.com
 [/appldnld.apple.com/]quic://dns.alidns.com
 [/appldnld.g.aaplimg.com/]quic://dns.alidns.com
@@ -61,7 +58,6 @@
 [/gsp12-cn.ls.apple.com/]quic://dns.alidns.com
 [/gsp13-cn.ls.apple.com/]quic://dns.alidns.com
 [/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]quic://dns.alidns.com
-[/gsp4-cn.ls.apple.com.edgekey.net/]quic://dns.alidns.com
 [/gsp4-cn.ls.apple.com/]quic://dns.alidns.com
 [/gsp5-cn.ls.apple.com/]quic://dns.alidns.com
 [/gsp85-cn-ssl.ls.apple.com/]quic://dns.alidns.com
@@ -71,7 +67,6 @@
 [/gspe19-cn.ls-apple.com.akadns.net/]quic://dns.alidns.com
 [/gspe19-cn.ls.apple.com/]quic://dns.alidns.com
 [/gspe21-ssl.ls.apple.com/]quic://dns.alidns.com
-[/gspe21.ls.apple.com/]quic://dns.alidns.com
 [/gspe35-ssl.ls.apple.com/]quic://dns.alidns.com
 [/gspe79-cn-ssl.ls.apple.com/]quic://dns.alidns.com
 [/guzzoni-apple-com.v.aaplimg.com/]quic://dns.alidns.com
@@ -80,9 +75,7 @@
 [/iadsdk.apple.com/]quic://dns.alidns.com
 [/icloud-cdn.icloud.com.akadns.net/]quic://dns.alidns.com
 [/icloud.cdn-apple.com/]quic://dns.alidns.com
-[/images.apple.com.akadns.net/]quic://dns.alidns.com
 [/images.apple.com.edgekey.net.globalredir.akadns.net/]quic://dns.alidns.com
-[/images.apple.com/]quic://dns.alidns.com
 [/init-kt.apple.com/]quic://dns.alidns.com
 [/init-p01md-lb.push-apple.com.akadns.net/]quic://dns.alidns.com
 [/init-p01md.apple.com/]quic://dns.alidns.com
@@ -169,6 +162,5 @@
 [/weather-map2.apple.com/]quic://dns.alidns.com
 [/weatherkit.apple.com/]quic://dns.alidns.com
 [/www.apple.com.edgekey.net.globalredir.akadns.net/]quic://dns.alidns.com
-[/www.apple.com.edgekey.net/]quic://dns.alidns.com
 [/www.apple.com/]quic://dns.alidns.com
 [/xp.apple.com/]quic://dns.alidns.com
