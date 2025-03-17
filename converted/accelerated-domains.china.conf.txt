@@ -22071,7 +22071,6 @@
 [/cqrcb.com/]quic://dns.alidns.com
 [/cqrcdsc.com/]quic://dns.alidns.com
 [/cqrfym.com/]quic://dns.alidns.com
-[/cqrjx.com/]quic://dns.alidns.com
 [/cqrm.com/]quic://dns.alidns.com
 [/cqrmb.com/]quic://dns.alidns.com
 [/cqsckj02.com/]quic://dns.alidns.com
@@ -47261,7 +47260,6 @@
 [/jjjaaa.com/]quic://dns.alidns.com
 [/jjjllk.com/]quic://dns.alidns.com
 [/jjjpv.com/]quic://dns.alidns.com
-[/jjjx9.com/]quic://dns.alidns.com
 [/jjkeq.com/]quic://dns.alidns.com
 [/jjkjnet.com/]quic://dns.alidns.com
 [/jjkk.org/]quic://dns.alidns.com
@@ -48161,6 +48159,7 @@
 [/jswebcall.com/]quic://dns.alidns.com
 [/jsweixiu.com/]quic://dns.alidns.com
 [/jswel.com/]quic://dns.alidns.com
+[/jswenjin.com/]quic://dns.alidns.com
 [/jswjkj.net/]quic://dns.alidns.com
 [/jswmw.com/]quic://dns.alidns.com
 [/jswonderful.com/]quic://dns.alidns.com
@@ -51158,7 +51157,6 @@
 [/lacaoshi.com/]quic://dns.alidns.com
 [/lacesar.com/]quic://dns.alidns.com
 [/lacocrea.com/]quic://dns.alidns.com
-[/lacyw.com/]quic://dns.alidns.com
 [/ladiyoga.com/]quic://dns.alidns.com
 [/ladjzs.com/]quic://dns.alidns.com
 [/lady177.com/]quic://dns.alidns.com
@@ -78322,7 +78320,6 @@
 [/tzsti.com/]quic://dns.alidns.com
 [/tzsucai.com/]quic://dns.alidns.com
 [/tzswatch.com/]quic://dns.alidns.com
-[/tzswll.com/]quic://dns.alidns.com
 [/tztrzjt.com/]quic://dns.alidns.com
 [/tztusi.com/]quic://dns.alidns.com
 [/tzujian.com/]quic://dns.alidns.com
@@ -79720,6 +79717,7 @@
 [/viewstock.com/]quic://dns.alidns.com
 [/viewtool.com/]quic://dns.alidns.com
 [/viewtrans.com/]quic://dns.alidns.com
+[/vifaka.com/]quic://dns.alidns.com
 [/vigtm-meeting-tencent.com/]quic://dns.alidns.com
 [/viigee.com/]quic://dns.alidns.com
 [/viisan.com/]quic://dns.alidns.com
