@@ -3,6 +3,7 @@
 [/2mdn.net/]quic://dns.alidns.com
 [/admob-cn.com/]quic://dns.alidns.com
 [/adservice.google.com/]quic://dns.alidns.com
+[/app-analytics-services.com/]quic://dns.alidns.com
 [/app-measurement-cn.com/]quic://dns.alidns.com
 [/app-measurement.com/]quic://dns.alidns.com
 [/apps5.oingo.com/]quic://dns.alidns.com
